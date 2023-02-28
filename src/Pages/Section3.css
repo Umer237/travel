@@ -1,0 +1,67 @@
+.Section3-Text{
+    text-align: center;
+}
+.Section3-Text h2{
+    font-size: 25px;
+    font-weight: 600;
+}
+.Section3-Text p{
+    font-size: 15px;
+    font-weight: 500;
+padding-top: 8px;
+color: grey;    
+}
+.Box-1{
+    padding: 20px;
+    box-shadow: 10px 5px 40px rgb(224, 222, 222);
+    height: 300px;
+}
+.Box-2{
+    box-shadow: 10px 5px 40px rgb(224, 222, 222);
+    padding: 20px;
+    height: 300px;
+}
+.Box-3{
+    box-shadow: 10px 5px 40px rgb(224, 222, 222);
+    padding: 20px;
+    height: 300px;
+}
+.Section3-Flex{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    flex-wrap: wrap;
+    padding: 20px;
+margin-top: 50px;
+}
+.Section3-Flex h1{
+    font-size: 25px;
+    font-weight: 600;
+    padding-top: 40px;
+}
+.Section3-Flex .p-1{
+    font-size: 15px;
+    max-width: 310px;
+}
+.Section3-Flex .p-2{
+    font-size: 15px;
+    max-width: 300px;
+}
+
+.Section3-Flex .p-3{
+    font-size: 15px;
+    max-width: 260px;
+}
+.Icon-1{
+    font-size: 55px;
+    padding-top: 50px;
+}
+.Icon-2{
+    font-size: 55px;
+    padding-top: 50px;
+}
+.Icon-3{
+    font-size: 55px;
+    padding-top: 50px;
+
+}

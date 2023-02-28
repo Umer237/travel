@@ -1,9 +1,10 @@
 import React from 'react'
+import Section3 from './Section3'
 
 const Home = () => {
   return (
   <>
-  
+  <Section3/>
   </>
   )
 }
